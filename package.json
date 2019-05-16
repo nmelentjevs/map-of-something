@@ -12,8 +12,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "d3": "^5.9.2",
+    "deck.gl": "^7.0.6",
     "next": "^8.1.0",
+    "nprogress": "^0.2.0",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.8.6",
+    "react-map-gl": "^4.1.2",
+    "styled-components": "^4.2.0"
   }
 }
